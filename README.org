@@ -2,9 +2,8 @@
 
 Algebraic data types in Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/tarballs-are-good/cl-algebraic-data-type.git   |
-| commit  | b256842  |
-| systems | cl-algebraic-data-type |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------------------------------|
+| source  | git:https://github.com/tarballs-are-good/cl-algebraic-data-type.git |
+| commit  | 0d666ec                                                             |
+| systems | cl-algebraic-data-type                                              |
+|---------+---------------------------------------------------------------------|
