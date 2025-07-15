@@ -4,6 +4,6 @@ Algebraic data types in Common Lisp
 
 |---------+---------------------------------------------------------------------|
 | source  | git:https://github.com/tarballs-are-good/cl-algebraic-data-type.git |
-| commit  | 2aa8114                                                             |
+| commit  | 3b03d8c                                                             |
 | systems | cl-algebraic-data-type                                              |
 |---------+---------------------------------------------------------------------|
